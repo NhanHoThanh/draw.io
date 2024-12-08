@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="HPFYGaa5T2g99oW7x4Pa">
-    <mxGraphModel dx="1177" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,13 +66,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-24" value="Classic Machine Learning" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="34.25" width="700" height="250" as="geometry" />
+          <mxGeometry x="1320" y="-200" width="700" height="514.25" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-25" value="&lt;span style=&quot;text-align: left;&quot;&gt;Time-domain&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-26" value="&lt;span style=&quot;text-align: left;&quot;&gt;Frequency domain&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" vertex="1">
-          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -90,25 +90,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-35" value="Feature vector" style="rounded=0;whiteSpace=wrap;html=1;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" vertex="1">
-          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-36" value="PSD,&amp;nbsp;Wavelet Transform,...." style="rounded=0;whiteSpace=wrap;html=1;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" vertex="1">
-          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="139.57" as="sourcePoint" />
-            <mxPoint x="420" y="139.57" as="targetPoint" />
+            <mxPoint x="380" y="329.57" as="sourcePoint" />
+            <mxPoint x="430" y="329.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-38" value="Feature vector" style="rounded=0;whiteSpace=wrap;html=1;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" vertex="1">
-          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-39" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;PCA&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" vertex="1">
           <mxGeometry x="380" y="40" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-40" value="Labels" style="rounded=0;whiteSpace=wrap;html=1;" parent="E7xQ6QzjejMmDZZ9hjOJ-24" vertex="1">
-          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E7xQ6QzjejMmDZZ9hjOJ-28" value="Deep Learning" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="334.25" width="320" height="208" as="geometry" />
